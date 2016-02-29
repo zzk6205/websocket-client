@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jetty-util-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-api-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-client-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-common-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-io-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
